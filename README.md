@@ -3,7 +3,7 @@
 Hi there 👋
 I'm a Backend Developer from São Palo, Brazil.
 
-“My name is Douglas! I love solving problems and for me, technology is a means to achieve these goals. I am an Information Systems student. My primary language is Java, and I use the SpringBoot framework. I have knowledge of SQL and use both MySQL and PostgreSQL databases.”
+“My name is Douglas! I love solving problems and for me, technology is a means to achieve these goals. I am an Information Systems student. My primary language is Java, and I use the SpringBoot framework.”
 
 My Linkedin:
 
